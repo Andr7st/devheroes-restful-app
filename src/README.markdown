@@ -1,2 +1,0 @@
-## DevHeroes App
-
